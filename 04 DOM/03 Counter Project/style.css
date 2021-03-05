@@ -1,0 +1,19 @@
+
+body {
+    background: rgb(66, 66, 66);
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    min-height: 100vh;
+    color: aliceblue;
+}
+img {
+    margin-top: 150px;
+    border-color: blue;
+    border-spacing: 5px;
+    border-radius: 5%;
+    width: 300px;
+    height: auto;
+}
